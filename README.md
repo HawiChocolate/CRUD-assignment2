@@ -21,6 +21,21 @@ A modern Flutter mobile application for managing food bank inventory.
 This app uses DummyJSON (a free mock REST API). Any data you add, update, or delete will not persist permanently as it is a mock backend.
 
 ## Screenshots
+## List
+![image alt](https://github.com/HawiChocolate/CRUD-assignment2/blob/21539e829bfbc2d4cbcf5d42996e2cf114b51e75/list)
+
+## Details page
+![image alt](https://github.com/HawiChocolate/CRUD-assignment1/blob/6fc5bad6eae3e1d74221da9af4ef01cad771180a/detail%20page)
+
+## Edit page
+![image alt](https://github.com/HawiChocolate/CRUD-assignment2/blob/21539e829bfbc2d4cbcf5d42996e2cf114b51e75/edit%20page)
+
+## Add page
+![image alt](https://github.com/HawiChocolate/CRUD-assignment2/blob/21539e829bfbc2d4cbcf5d42996e2cf114b51e75/add%20page)
+
+## Delete page
+![image alt](https://github.com/HawiChocolate/CRUD-assignment2/blob/21539e829bfbc2d4cbcf5d42996e2cf114b51e75/delete%20page)
+![image alt](https://github.com/HawiChocolate/CRUD-assignment2/blob/21539e829bfbc2d4cbcf5d42996e2cf114b51e75/label%20delete)
 
 
 
