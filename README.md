@@ -17,11 +17,14 @@ A modern Flutter mobile application for managing food bank inventory.
 - GetIt: for dependency injection
 - DummyJSON: as the backend API (`https://dummyjson.com/products/category/groceries`)
 
+## API Note
+This app uses DummyJSON (a free mock REST API). Any data you add, update, or delete will not persist permanently as it is a mock backend.
+
 ## Screenshots
 
 
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 - Flutter SDK installed
